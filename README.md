@@ -34,7 +34,7 @@
     Paralelamente, también hago proyectos personales relacionados con la <b>programación</b>, la <b>robótica</b>, la <b>inteligencia artificial</b> y el <b>desarrollo web</b>. Asímismo, también tengo algunos conocimientos en <b>ciberseguridad</b>.
   </p>
   
-  <h3>Mi Stack Tecnológico💻</h3>
+  <h3>Mi Stack 💻</h3>
   
   <table align="center">
     <tr>
