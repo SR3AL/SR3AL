@@ -17,9 +17,6 @@
       <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Canal de Instagram de SR3AL" height="23px" width="23px" />
     </a>
     <span style="width: 8px;"> </span>
-    <!-- <a href="https://twitter.com/kayz05" target="blank">
-      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/2491px-Logo_of_Twitter.svg.png" alt="Canal de Twitter de kayz05" height="23px" width="28px" />
-    </a> -->
   </p>
 <hr>
   <h3>¿Quién soy? 🧑🏻‍💻</h3>
@@ -47,7 +44,7 @@
     </tr>
     <tr>
       <td align="left"><b>Web Development</b></td>
-      <td align="left"><img src="https://skillicons.dev/icons?i=nextjs,react,php,html,css,js&theme=dark"/></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=php,html,css&theme=dark"/></td>
     </tr>
     <tr>
       <td align="left"><b>Herramientas</b></td>
